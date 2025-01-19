@@ -22,3 +22,5 @@ def lowerb(arr, n, k):
             else:
                 low=mid+1
         return ub
+tc=0(logn)
+space=o(1)
